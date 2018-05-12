@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33574'
     url: http://www.gutenberg.org/2009/agents/33574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31519#Narakan-Rifles-About-Face-
 gutenberg_issued: '2010-03-06'
 gutenberg_type: Text
 identifiers:
